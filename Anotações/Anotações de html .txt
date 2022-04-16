@@ -1,0 +1,15 @@
+HTML - Serve para criar o cabeçalho + estrutura básica
+<HTML> Inicia um documento
+</HTML> Encerra um documento
+Head: área do cabeçalho
+Title: linha de titulo
+body: área do corpo
+p: parágrafo
+
+Lista ordenada (1,...ou A,...)
+<ol> abre e fecha o tipo de lista </ol>
+<li> abre e fecha o item da lista </li>
+
+Lista não ordenada (*)
+ul: tipo de lista
+li: item da lista
